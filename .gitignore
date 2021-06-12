@@ -29,3 +29,5 @@ build/
 .DS_Store
 
 .history
+.github/FUNDING.yml
+.github/workflows/nodejs.yml
